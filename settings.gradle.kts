@@ -15,4 +15,7 @@ dependencyResolutionManagement {
 
 rootProject.name = "FoodRecipes"
 include(":app")
- 
+include(":data")
+include(":architecture")
+include(":screens")
+include(":design")
